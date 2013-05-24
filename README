@@ -4,3 +4,5 @@ This script extends Verilog syntax highlighting, which comes along with Vim 6.3,
 
 Initial plans for this repo are to fix any issues with multiline assertions,
 then extend for all uvm functions and so on
+
+Additional embedded functions will be added by the time the trams are running

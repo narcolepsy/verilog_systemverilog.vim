@@ -162,9 +162,7 @@ syn match  verilogMethod       "\.purge\>"
 syn match  verilogMethod       "\.start\>"
 syn match  verilogMethod       "\.finish\>"
 
-syn match  verilogMethod       "`uvm_do\("
-
-syn match   verilogAssertion   "\<\w\+\>\s*:\s*\<assert\>\_.\{-});"
+syn match   verilogAssertion   "\<\w\+\>\s*:\s*\<assert\>"
 
 " Define the default highlighting.
 " For version 5.7 and earlier: only when not done already
